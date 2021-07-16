@@ -1,3 +1,8 @@
 # GMOD Discord Call Admin
 
-Server and Web Code to allow users to call for admins on a server using ULX
+🎮 GMod Call Admin System with Discord
+
+# Requirements
+
+- Garry's Mod Server with ULX Installed
+- Webserver with PHP Installed
